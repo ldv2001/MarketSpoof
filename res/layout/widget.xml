@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@+id/RelativeLayout01" android:layout_width="wrap_content" android:layout_height="wrap_content" xmlns:android="http://schemas.android.com/apk/res/android">
+<ImageButton android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" android:background="@color/transparent" android:id="@+id/widget_button" android:src="@drawable/msbtnoff"></ImageButton>
+</RelativeLayout>
